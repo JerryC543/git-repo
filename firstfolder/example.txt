@@ -1,6 +1,10 @@
 thi is an example
+<<<<<<< HEAD:firstfolder/example.txt
 another line.
 
 more more line.
 
 another change
+=======
+another line.
+>>>>>>> parent of 8c8edff (add more line.):example.txt
